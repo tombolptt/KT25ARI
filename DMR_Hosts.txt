@@ -31,7 +31,7 @@ BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 #
-#				HBLink/KRAP INDONESIA AT Hosts Below
+#				HBLink/DMR TOMBOLPTT AT Hosts Below
 #
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
